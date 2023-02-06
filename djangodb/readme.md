@@ -6,10 +6,10 @@ If the details are valid, the user gets a confirmation message, if not will get 
 ## SCREENSHOTS
 
 ## After entering valid details
-![Screenshot (96)](https://user-images.githubusercontent.com/90493668/216950290-91d9df71-2d3a-4427-9bdb-95fd4d554af6.png)
+![Screenshot (99)](https://user-images.githubusercontent.com/90493668/216951109-83271be2-443e-40ad-9a1f-b71bfadb4a69.png)
 
 ## If any errors/mistakes
-![Screenshot (97)](https://user-images.githubusercontent.com/90493668/216950571-b6c83aa2-545f-4560-bcf1-17f87e0364fe.png)
+![Screenshot (100)](https://user-images.githubusercontent.com/90493668/216951164-eeedf485-6feb-4a3d-8d1d-4aaf12ff7686.png)
 
 ## Admin Interface
-![Screenshot (95)](https://user-images.githubusercontent.com/90493668/216950642-da1d7c31-1cb2-49fa-971f-b7b3d3e8914e.png)
+![Screenshot (98)](https://user-images.githubusercontent.com/90493668/216951225-574395f0-e261-443c-9327-8f2fe86d5d0b.png)
