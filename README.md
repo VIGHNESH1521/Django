@@ -34,31 +34,31 @@ DJANGO ARE USED IN
 
 STARTING OUR DJANGO PROJECT
 
->>>django-admin startproject project_name
+- django-admin startproject project_name
 
 - Use the tree command to print a graphical representation of our current directory
 
->>>tree
+- tree
 
 Each file in the "beginner_project" directory serves a specific purpose
 
->>>asgi.py - this is an optional file used with an asynchronous server gateway interface
->>>__init.py__ - this indicates the directory is part of a python package
->>>settings.py - this file controls the settings for our django project 
->>>urls.py - this file tells the django which page to load when a user visits our site
->>>wsgi.py - the web server gateway interface is used when we host our site ona production server
+- asgi.py - this is an optional file used with an asynchronous server gateway interface
+- __init.py__ - this indicates the directory is part of a python package
+- settings.py - this file controls the settings for our django project 
+- urls.py - this file tells the django which page to load when a user visits our site
+- wsgi.py - the web server gateway interface is used when we host our site ona production server
 
 NOTE : The manage.py file is not technically part of the django project since it is outside the beginner_project directory. But, this is a very important file, we will use it when we need to make migrations to the database, run our development server, etc.
 
 Django automatically creates any files needed by the app. Each file has a specific purpose :
 
->>>admin.py - handles configuration of the built-in django
+- admin.py - handles configuration of the built-in django
 admin feature
->>>apps.py - handles configuration for the app itself
->>>migrations - the directory keeps track of changes to models so the databases stays in the sync
->>>models.py - handles the definition of database models
->>>tests.py - handles any tests specific to the app
->>>views.py - handles any HTTP requests and responses for the app
+- apps.py - handles configuration for the app itself
+- migrations - the directory keeps track of changes to models so the databases stays in the sync
+- models.py - handles the definition of database models
+- tests.py - handles any tests specific to the app
+- views.py - handles any HTTP requests and responses for the app
 
 ADDING THE APP
 
