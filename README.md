@@ -2,7 +2,8 @@
 
 ## WHAT IS DJANGO?
 
-![image](https://user-images.githubusercontent.com/90493668/216966169-42af6630-c221-47b9-9e97-97f59dd78436.png)
+![image](https://user-images.githubusercontent.com/90493668/216966365-7c63102e-d63c-4958-b65d-2bc209d70ed9.png) ![image](https://user-images.githubusercontent.com/90493668/216966488-7214abc6-db6e-4766-a06d-a9c4e3f87313.png)
+
 
 Django is a full-featured web framework that simplifies the process of making web applications in Python. Note that Django is described as a framework and not a module or package. A framework is a collection of tools to aid you in web development. For example, you would create a model of data in Python. Django then converts the model to be used in a database. As a developer you do not need to worry about the conversion process. Django does this automatically.
 Django uses the Model-View-Template (MVT) paradigm. The Model manages data, the view describes the subset of data sent to the user, and the template displays the data for the user. Underlying all of this is a URL pattern matching system. If a user goes to www.yourpage.com/about, Django will take the /about URL pattern and match it to a view, which is presented to the user.
